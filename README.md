@@ -2,8 +2,8 @@
 KV6002 Team Project and Professionalism - 'Revenue Prediction model' individual subsystem
 
 ## Project Description
-This 'model' directory has been developed as an individual subsystem for KV6002 Team Project 
-and Professionalism at Northumbria University.
+This work has been developed as an individual subsystem for KV6002 Team Project and 
+Professionalism at Northumbria University.
 
 ## Setting up
 For the purposes of this project, the Flask server is run locally (127.0.0.1:5000). In order 
